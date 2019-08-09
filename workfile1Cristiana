@@ -31,9 +31,21 @@ All Argo data (Roemmich et al., 2009) available for the study region were consid
 Argo float data are collected and made freely available by the international Argo project and the national programs that contribute to it.
 For the analysis, only delayed mode data with a data quality flag of “probably good” or better were used.
 
-The Argo profile data were used in this study 
-- to quantify the temporal evolution of salinity anomalies in the tropical Atlantic on two characteristic density surfaces (26.8 and 27.2 kg m−3). 
+The Argo profile data were used in this study to quantify the temporal evolution of salinity anomalies in the tropical Atlantic on two characteristic density surfaces (26.8 and 27.2 kg m−3). 
 
-Anomalies of salinity were calculated with respect to the mean state given by MIMOC (see Sect. 2.3) for the period 2004–2016. Subsequently, mean salinity anomalies were calculated for different periods and a decadal tendency was estimated for the whole period.
+Anomalies of salinity were calculated with respect to the mean state given by MIMOC (see Sect. 2.3) for the period 2004–2016. 
+Subsequently, mean salinity anomalies were calculated for different periods and a decadal tendency was estimated for the whole period.
+
+AVISO ALTIMETRY 
+The altimeter product was produced by Ssalto/Duacs and distributed by Aviso, with support from Cnes (http://www.aviso.altimetry.fr/duacs/).
+Absolute geostrophic velocity data were taken from the delayed time global product MADT (Maps of Absolute Dynamic Topography) given in the version “all satmerged”. The data were extracted for the box 4–14◦ N/35–20◦ W for the data period January 1993–September 2015 (processing date: 27 November 2015).
+
+DATASET FOR THE ANALYSIS IN THIS STUDY
+
+Hahn, Johannes; Brandt, Peter; Schmidtko, Sunke; Krahmann, Gerd (2016): Oxygen, hydrography and velocity in the eastern tropical North Atlantic (1999 - 2015). PANGAEA, https://doi.org/10.1594/PANGAEA.869568, Supplement to: Hahn, J et al. (2017): Decadal oxygen change in the eastern tropical North Atlantic. Ocean Science, 13(4), 551-576, https://doi.org/10.5194/os-13-551-2017
+Released on CC BY License
+
+Coverage - Median Latitude: 6.638228 * Median Longitude: -23.409615 * South-bound Latitude: -11.501170 * West-bound Longitude: -35.895830 * North-bound Latitude: 17.614670 * East-bound Longitude: -21.182000
+Date/Time Start: 2012-10-27T13:20:00 * Date/Time End: 2015-10-10T21:31:15
 
 
