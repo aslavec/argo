@@ -1,0 +1,39 @@
+Name of the partecipant:
+Scientist - El Khattabi Kaoutar
+Tecnician - Uy Iris Diana
+Reader/investigator - Cristiana Pisoni
+Communicator - Slavec Ana
+
+Paper: Decadal oxygen change in the eastern tropical North Atlantic / Johannes Hahn, Peter Brandt, Sunke Schmidtko1, and Gerd Krahmann1 in Ocean Science, 13, 551–576, 2017
+https://doi.org/10.5194/os-13-551-2017
+© Author(s) 2017. This work is distributed under the Creative Commons Attribution 3.0 License.
+
+PERIOD OF OBSERVATION> 2006-2015
+
+Data availability. 
+MIMOC is available at http://www.pmel.noaa.gov/mimoc/. 
+
+Argo float data were collected and made freely available by the international Argo project and the national programs that contribute to it (http://doi.org/doi:10.17882/42182). The Argo data used here were downloaded in March 2016.
+ 
+Aviso altimetry products of surface geostrophic velocity were downloaded from http://aviso.altimetry.fr/index.php?id=1271 in July 2016 (processing date: 27 November 2015). 
+
+Shipboard and mooring data are accessible at https://doi.pangaea.de/doi:10.1594/PANGAEA.869568.
+
+MIMOC
+The monthly, isopycnal and mixed-layer ocean climatology (MIMOC) (Schmidtko et al., 2013) was used as a reference
+mean state in order to 
+(i) perform a water mass analysis 
+(ii) quantify the temporal evolution of salinity anomalies in the tropical Atlantic.
+
+ARGO FLOAD DATASET
+All Argo data (Roemmich et al., 2009) available for the study region were considered
+(https://doi.org/doi:10.13155/29825). 
+Argo float data are collected and made freely available by the international Argo project and the national programs that contribute to it.
+For the analysis, only delayed mode data with a data quality flag of “probably good” or better were used.
+
+The Argo profile data were used in this study 
+- to quantify the temporal evolution of salinity anomalies in the tropical Atlantic on two characteristic density surfaces (26.8 and 27.2 kg m−3). 
+
+Anomalies of salinity were calculated with respect to the mean state given by MIMOC (see Sect. 2.3) for the period 2004–2016. Subsequently, mean salinity anomalies were calculated for different periods and a decadal tendency was estimated for the whole period.
+
+
